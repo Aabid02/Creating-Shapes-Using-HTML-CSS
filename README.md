@@ -1,4 +1,4 @@
-Created the Shapes using HTML and CSS 
+Created Shapes using HTML and CSS 
 
 Check for the working code for these Shapes -
 
